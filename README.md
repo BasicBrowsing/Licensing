@@ -10,4 +10,4 @@ Logos are included at [BrasicBrowsing/Assets]
 
 
 [Simple-Icons]: https://github.com/simple-icons
-[BrasicBrowsing/Assets]: https://github.com/BasicBrowsing/Assets/Addon/Icons/Logos
+[BrasicBrowsing/Assets]: https://github.com/BasicBrowsing/Assets/tree/main/Addon/Icons/Logos
